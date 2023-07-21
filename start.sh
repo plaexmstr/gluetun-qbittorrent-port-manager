@@ -1,6 +1,6 @@
 #!/bin/bash
 
-COOKIES="/tmp/cookies.txt"
+COOKIES="/gluetun/cookies.txt"
 
 update_port () {
   PORT=$(cat $PORT_FORWARDED)
